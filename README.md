@@ -1,3 +1,5 @@
+Note: This was an experiement at 100% vibecoding a simple project. Might redo this at a later date in Go but for now I just wanted to get something up and running.
+
 # CarWatch
 
 A configurable Python application that monitors CarMax for specific car listings and sends email notifications when new matches are found. Search by make, model, year range, transmission type, and more.
