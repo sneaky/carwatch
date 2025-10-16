@@ -1,0 +1,102 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Database files (may contain personal search history)
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs (may contain personal information)
+*.log
+logs/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Pytest
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Selenium / Browser drivers
+chromedriver
+geckodriver
+*.crx
+
+# Personal configuration overrides
+config.local.py
+config_local.py
+*_local.py
+
+# Backup files
+*.bak
+*.backup
+*.swp
+
+# Temporary files
+tmp/
+temp/
+*.tmp
